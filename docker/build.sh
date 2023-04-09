@@ -1,0 +1,1 @@
+docker build -t text-fuse-net:1.0.0 .
